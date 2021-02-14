@@ -1,4 +1,4 @@
-# debts_app
+# bank-accounts-app
 
 A Flutter application for debt management.
 
